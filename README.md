@@ -1,12 +1,13 @@
 <!DOCTYPE HTML>
 <html>
   <body>
-    <h1>Hello! I'm Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
-    <p>I am a Computer Science Major</p>
-    <p>Languages and Topics</p>
-    <p><img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" alt="Java" width="120">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="Linux" width="50"></p>
+    <h1>Hello! I'm Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving" width=40></h1>
+    <p><b>I am a Computer Science Major striving towards a Computer Engineering Degree</b></p>
+    <p><b>About Me</b><p>
+    <p><b>Languages and Topics</b></p>
+    <p><img src="https://github.com/lrickyy/lrickyy/blob/main/javapng.png?raw=true" alt="Java" width=50 height=50>
+    <img src="https://github.com/lrickyy/lrickyy/blob/main/c++.png?raw=true" alt="C++" width=50 height=50>
+    <img src="https://github.com/lrickyy/lrickyy/blob/main/linux.png?raw=true" alt="Linux" width=50 height=50></p>
   </body>
 </html>
 
