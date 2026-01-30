@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>Hello! I'm Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving" width=40></h1>
-    <p><b>I am a Computer Science Major striving towards a Computer Engineering Degree</b></p>
+    <p><b>I am a Computer Science Major striving towards a Software Engineering position</b></p>
     <p><b>About Me</b><p>
       <p>I am starting on my coding journey, I love to code and be hands on with hardware and electronics, I can't wait for the world to see what I can do.</p>
     <p><b>Languages and Topics</b></p>
